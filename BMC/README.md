@@ -5,6 +5,9 @@ A Flutter program developed fo a Medical Center and it's one of the Businet prog
 ## About
 - Localization is initialized for the project but it's not provided in this release, Whats means specificly in Languages there you could see the trans files but not all the application was developed to be provided with arabic just.
 
+## Used Packages And Technologies
+- Get (Localization, State Management)
+- MVC, Singletone, Design Patterns Used
 
 ## Running the Release - 1.0.0
 
