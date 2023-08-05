@@ -1,4 +1,0 @@
-- Add help command
-- Add about command
-- Add under maintainance state
-- Add search lesson
