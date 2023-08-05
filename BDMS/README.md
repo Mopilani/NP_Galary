@@ -1,6 +1,6 @@
-# Businet Medical Center
+# BDMS
 
-A Flutter program developed fo a Medical Center and it's one of the Businet programs package using, C# and .Net.
+A Flutter program  using, Dart, C#, and .Net.
 
 ## About
 - Localization is initialized for the project but it's not provided in this release, Whats means specificly in Languages there you could see the trans files but not all the application was developed to be provided with arabic just.
